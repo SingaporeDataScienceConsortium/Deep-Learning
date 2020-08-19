@@ -1,4 +1,5 @@
 # The code is shared on SDSC Github
+# Prerequisite: Download vgg16 (vgg16.npy) model and put it into the same folder
 # Aim: use pre-trained vgg16 for image classification
 import numpy as np
 import tensorflow as tf
