@@ -9,3 +9,5 @@ The image data is stored in 'training_data' and 'test_data' for training and tes
 
 Python 3.7
 Tensorflow 1.14.0
+
+Note: Please unzip 'training_data.zip' and 'test_data.zip' to retrieve the training and testing data
