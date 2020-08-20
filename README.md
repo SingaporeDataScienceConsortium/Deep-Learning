@@ -11,3 +11,5 @@ Python 3.7
 Tensorflow 1.14.0
 
 Note: Please unzip 'training_data.zip' and 'test_data.zip' to retrieve the training and testing data
+
+Author: ZHANG Zhen, Dr. (Data Scientist, Singapore Data Science Consortium)
